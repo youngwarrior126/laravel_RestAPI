@@ -33,7 +33,7 @@
     "es6-promise": "^3.1.2",
     "eslint-plugin-react": "^3.16.1",
     "exports-loader": "^0.6.3",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "forever": "^0.15.1",
     "html-webpack-plugin": "^2.19.0",
     "immutable": "^3.8.1",
